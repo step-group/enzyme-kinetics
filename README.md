@@ -1,4 +1,4 @@
-1. Utilizar Jupyter Notebook
+1. Utilizar Jupyter Notebook  
 2. Sensibilizar parametros iniciales
 3. Hacer tabla con coeficientes actividad / mirar ejemplo .ipynb
 3. Implementar ARD% o RMSD con las preddiciones (medidas de error) - comparar modelos - Hacer tabla mirar .ipynb de ejemplo

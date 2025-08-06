@@ -5,3 +5,6 @@
 4. Re-revisar el acido Oleico (2nda confirmacion de los coef. de actividad de oleico)
 5. Probar Mezclas, hacer graficos todos juntos (mirar .ipynb de ejemplo)
 6. Optimización global
+new goals
+7. Compare methods
+8. Continue with paper
